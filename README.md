@@ -1,1 +1,3 @@
-# .github
+# SomeBot
+
+More Information soon..
